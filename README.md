@@ -1,90 +1,83 @@
- 
 <div align="center">
 
-# ░▒▓ AKSHAY KRISHNA ▓▒░
+<img src="assets/pixel-banner.svg" width="100%" alt="Blue and white pixel-art developer banner" />
 
-### `DEVELOPER.exe` — SYSTEM ONLINE
+### `SOFTWARE • AI • CYBERSECURITY • OPEN SOURCE`
 
-**BUILDING • EXPERIMENTING • CONTRIBUTING**
-
-[ GitHub ](https://github.com/Akshaycyber006) · [ QRVerse ](https://github.com/Akshaycyber006/QRVerse) · [ Live Demo ](https://qr-verse-phi.vercel.app)
+[![GitHub](https://img.shields.io/badge/GitHub-Akshaycyber006-071b75?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Akshaycyber006)
+[![Profile views](https://komarev.com/ghpvc/?username=Akshaycyber006&style=for-the-badge&color=071b75)](https://github.com/Akshaycyber006)
 
 </div>
 
 ---
 
+## ▣ ABOUT ME
+
 ```text
-  █████╗ ██╗  ██╗███████╗██╗  ██╗ █████╗ ██╗   ██╗
- ██╔══██╗██║ ██╔╝██╔════╝██║  ██║██╔══██╗╚██╗ ██╔╝
- ███████║█████╔╝ ███████╗███████║███████║ ╚████╔╝
- ██╔══██║██╔═██╗ ╚════██║██╔══██║██╔══██║  ╚██╔╝
- ██║  ██║██║  ██╗███████║██║  ██║██║  ██║   ██║
- ╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝
-
-       [ 1-BIT DEVELOPER INTERFACE ]
+> NAME       : Akshay Krishna
+> ROLE       : B.Tech IT Student / Developer
+> INTERESTS  : Software, AI, Cybersecurity
+> CURRENTLY  : Learning, building and contributing
+> MINDSET    : Turn ideas into useful technology
 ```
 
-## `01` / ABOUT ME
+## ▣ TECH STACK
 
-```yaml
-name: Akshay Krishna
-role: Developer | IT Student
-focus:
-  - Software Development
-  - Artificial Intelligence
-  - Cybersecurity
-  - Open Source
-mission: Build useful technology.
-status: Always Learning...
-```
+<div align="center">
 
-## `02` / TECH STACK
+![C](https://img.shields.io/badge/C-071b75?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-071b75?style=flat-square&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-071b75?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-071b75?style=flat-square&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-071b75?style=flat-square&logo=javascript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-071b75?style=flat-square&logo=typescript&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-071b75?style=flat-square&logo=react&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-071b75?style=flat-square&logo=supabase&logoColor=white)
+![Git](https://img.shields.io/badge/Git-071b75?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-071b75?style=flat-square&logo=linux&logoColor=white)
 
-| DOMAIN | TECHNOLOGIES |
-|---|---|
-| Languages | C, C++, Python, Java |
-| Web | HTML, CSS, JavaScript |
-| Mobile | React Native, TypeScript |
-| Backend | Supabase |
-| Tools | Git, GitHub, VS Code |
+</div>
 
-## `03` / FEATURED PROJECTS
+## ▣ FEATURED BUILD
 
-### ▣ QRVerse
+### QRVerse — Smart QR & File Sharing
 
-**Smart QR & File Sharing Platform**
+A mobile application project exploring QR generation, scanning, saved links, file sharing and translation workflows.
 
 - Smart QR generation and scanning
-- Offline File Bridge
-- AI OCR and translation
-- Supabase authentication and cloud integration
+- Link Vault and file-sharing features
+- Supabase authentication and data storage
+- AI-assisted OCR and translation features
 
-[REPOSITORY](https://github.com/Akshaycyber006/QRVerse) · [LIVE DEMO](https://qr-verse-phi.vercel.app) · [DOI](https://doi.org/10.5281/zenodo.22978800)
+[![Open QRVerse repository](https://img.shields.io/badge/OPEN_PROJECT-071b75?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Akshaycyber006/QRVerse)
 
-## `04` / GITHUB STATISTICS
+## ▣ GITHUB TELEMETRY
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Akshaycyber006&show_icons=true&theme=default&title_color=0D47A1&icon_color=0D47A1&text_color=0D47A1&border_color=0D47A1)
+<div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Akshaycyber006&layout=compact&theme=default&title_color=0D47A1&text_color=0D47A1&border_color=0D47A1)
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Akshaycyber006&show_icons=true&hide_border=true&bg_color=ffffff&title_color=071b75&text_color=071b75&icon_color=071b75" alt="GitHub statistics" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akshaycyber006&layout=compact&hide_border=true&bg_color=ffffff&title_color=071b75&text_color=071b75" alt="Most used languages" />
 
-## `05` / CONTRIBUTION ACTIVITY
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Akshaycyber006&bg_color=ffffff&color=071b75&line=071b75&point=071b75&area=true&hide_border=true" width="100%" alt="Contribution activity graph" />
 
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Akshaycyber006&bg_color=ffffff&color=0D47A1&line=0D47A1&point=000080&area=true&hide_border=false)
+</div>
 
-## `06` / CONNECT
+## ▣ CONNECT
 
-**LET'S BUILD SOMETHING USEFUL.**
-
-[GitHub](https://github.com/Akshaycyber006)
+- **GitHub:** [@Akshaycyber006](https://github.com/Akshaycyber006)
+- **Projects:** [Explore my repositories](https://github.com/Akshaycyber006?tab=repositories)
 
 ---
 
 <div align="center">
 
-`END OF TRANSMISSION`
+```text
++--------------------------------------+
+|  CODE TODAY  //  LEAD TOMORROW       |
+|          01000001 01001011            |
++--------------------------------------+
+```
 
-**© AKSHAY KRISHNA — 2026**
-
-`01000001 01001011`
+**Thanks for visiting my corner of the internet.**
 
 </div>
